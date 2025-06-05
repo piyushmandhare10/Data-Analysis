@@ -9,3 +9,5 @@ Day two - Develop a Power BI report for Superstore data
 - Revenue is steadily growing.
 - Categories like supplies, bookcases, and tables are losing money.
 - The consumer segment is the best-performing.
+
+Day 3 - 
