@@ -10,4 +10,5 @@ Day two - Develop a Power BI report for Superstore data
 - Categories like supplies, bookcases, and tables are losing money.
 - The consumer segment is the best-performing.
 
-Day 3 - 
+Day 3 - Design an interactive dashboard for business stakeholders
+
